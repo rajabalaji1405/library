@@ -1,8 +1,8 @@
 app_name = "library"
-app_title = "Demo"
-app_publisher = "Raja Balaji A"
-app_description = "Demo App"
-app_email = "rajabalaji1405@gmail.com"
+app_title = "library"
+app_publisher = "Raja"
+app_description = "library"
+app_email = "raja@gmail.com"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "library",
 # 		"logo": "/assets/library/logo.png",
-# 		"title": "Demo",
+# 		"title": "library",
 # 		"route": "/library",
 # 		"has_permission": "library.api.permission.has_app_permission"
 # 	}
